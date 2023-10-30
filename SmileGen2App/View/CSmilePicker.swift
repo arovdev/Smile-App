@@ -26,7 +26,7 @@ struct CSmilePicker: View {
                 }
             }
             .padding()
-            .frame(width: geometry.size.width)
+            .frame(width: geometry.size.width, height: 85)
             .background(.ultraThinMaterial)
             .cornerRadius(20)
         }

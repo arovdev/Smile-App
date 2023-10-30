@@ -15,6 +15,8 @@
 		31163F1A2AEED1090095B8D4 /* CColorPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31163F192AEED1090095B8D4 /* CColorPicker.swift */; };
 		31163F1C2AEED4050095B8D4 /* CSmilePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31163F1B2AEED4050095B8D4 /* CSmilePicker.swift */; };
 		31163F1E2AEEFD990095B8D4 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31163F1D2AEEFD990095B8D4 /* Settings.swift */; };
+		31163F222AEF2DF60095B8D4 /* AddColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31163F212AEF2DF60095B8D4 /* AddColor.swift */; };
+		31163F272AEFCAA50095B8D4 /* AddSmile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31163F262AEFCAA50095B8D4 /* AddSmile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		31163F192AEED1090095B8D4 /* CColorPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CColorPicker.swift; sourceTree = "<group>"; };
 		31163F1B2AEED4050095B8D4 /* CSmilePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CSmilePicker.swift; sourceTree = "<group>"; };
 		31163F1D2AEEFD990095B8D4 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
+		31163F212AEF2DF60095B8D4 /* AddColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddColor.swift; sourceTree = "<group>"; };
+		31163F262AEFCAA50095B8D4 /* AddSmile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddSmile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +90,8 @@
 				31163F192AEED1090095B8D4 /* CColorPicker.swift */,
 				31163F1B2AEED4050095B8D4 /* CSmilePicker.swift */,
 				31163F1D2AEEFD990095B8D4 /* Settings.swift */,
+				31163F212AEF2DF60095B8D4 /* AddColor.swift */,
+				31163F262AEFCAA50095B8D4 /* AddSmile.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -176,8 +182,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				31163F1E2AEEFD990095B8D4 /* Settings.swift in Sources */,
+				31163F222AEF2DF60095B8D4 /* AddColor.swift in Sources */,
 				31163F082AEECEB80095B8D4 /* ContentView.swift in Sources */,
 				31163F1A2AEED1090095B8D4 /* CColorPicker.swift in Sources */,
+				31163F272AEFCAA50095B8D4 /* AddSmile.swift in Sources */,
 				31163F172AEECEE50095B8D4 /* Home.swift in Sources */,
 				31163F1C2AEED4050095B8D4 /* CSmilePicker.swift in Sources */,
 				31163F062AEECEB80095B8D4 /* SmileGen2AppApp.swift in Sources */,
